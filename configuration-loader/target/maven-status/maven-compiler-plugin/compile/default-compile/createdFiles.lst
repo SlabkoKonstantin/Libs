@@ -1,0 +1,4 @@
+ru\mcb\common\configuration\PropertyLoader.class
+ru\mcb\common\configuration\XMLConfigurationException.class
+ru\mcb\common\configuration\Jaxb.class
+ru\mcb\common\configuration\XmlConfiguration.class
